@@ -35,3 +35,11 @@ Merging two branches together merges all the changes from the two branches in ti
 stamp order. We merge one branch into another, usually a branch into the master.
 
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+pros - automatic merging saves you lots of time by merging things that obviously need 
+to be in the final version. 
+cons - not much other than you can see if something should not have been merged in
+but would be with automatic merging
+
+
