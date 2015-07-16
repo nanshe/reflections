@@ -22,3 +22,16 @@ Branches help when you want to maintain different versions of an application or 
 developers are working on different features from the main branch.
 
 
+How do the diagrams help you visualize the branch structure?
+
+The diagrams showing the different branches, commit numbers/changes, definitely helps 
+me visualize the branch structure.
+
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+Merging two branches together merges all the changes from the two branches in time
+stamp order. We merge one branch into another, usually a branch into the master.
+
+
