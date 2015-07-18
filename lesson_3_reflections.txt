@@ -2,3 +2,11 @@ When would you want to create a remote repository rather than keeping all your w
 
 When you want to commit a change and have it backed up on the server and/or you want the commit 
 accessible to other developers
+
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+You may not want the changes from the remote if it contains changes from another developer.
+
+
