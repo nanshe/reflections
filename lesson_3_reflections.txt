@@ -10,3 +10,16 @@ stay up-to-date with your remote repository?
 You may not want the changes from the remote if it contains changes from another developer.
 
 
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Branches are to create a new branch of commits within the same repository.
+Clones are for creating a copy of a github or local repository with no link back 
+to the original.
+Forks are for creating a copy of a github repository on github when you want
+a separate copy that links or gives credit to the original. This is useful 
+when you want to make changes to a github repository but you don't have 
+permissions as a collaborator to make changes to the original. After forking
+a copy to your github profile, clone the repository to your computer. This 
+creates a remote link to your github repository automatically. Make changes,
+commit, and push the changes to your forked repository on github. 
