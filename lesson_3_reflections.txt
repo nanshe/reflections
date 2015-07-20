@@ -44,3 +44,13 @@ it is the hard part.
 Without a version control system, it's so much harder keeping a history of all the changes
 and merging all the changes from all collaborators. With all the manual work involved for
 all collaborators, there's bound to be errors and changes wiped out. 
+
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+You'd make them in a separate branch when you want a collaborator to review your changes
+before merging them into master, where they could break the working code. 
+It's certainly easier to just use master - there are far fewer steps to work directly on
+master than to create a separate branch, but it's good to have code reviewed before it is
+committed to the working branch. 
