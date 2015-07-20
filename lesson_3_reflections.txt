@@ -31,3 +31,16 @@ locally?
 It allows you to compare your changes to that copy using git status and git diff which only 
 work locally. Manually checking the differences allows you to see if their changes 
 affect your changes before merging, even if they wouldn't create a merge conflict. 
+
+
+How would you collaborate without using Git or GitHub?
+What would be easier and what would be harder?
+
+Without version control like Git and Github, collaborators would have to pass their latest
+version of the file around to all collaborators by email. Then each collaborator would have
+to manually merge the changes into their copy. 
+Not much would be easier for a collaborator who knows how to use Git and GitHub - learning
+it is the hard part.
+Without a version control system, it's so much harder keeping a history of all the changes
+and merging all the changes from all collaborators. With all the manual work involved for
+all collaborators, there's bound to be errors and changes wiped out. 
