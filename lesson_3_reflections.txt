@@ -22,4 +22,12 @@ when you want to make changes to a github repository but you don't have
 permissions as a collaborator to make changes to the original. After forking
 a copy to your github profile, clone the repository to your computer. This 
 creates a remote link to your github repository automatically. Make changes,
-commit, and push the changes to your forked repository on github. 
+commit, and push the changes to your forked repository on github.  
+
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+It allows you to compare your changes to that copy using git status and git diff which only 
+work locally. Manually checking the differences allows you to see if their changes 
+affect your changes before merging, even if they wouldn't create a merge conflict. 
